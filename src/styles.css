@@ -40,11 +40,12 @@ border-radius: 10px;
     padding-left: 54px;
 }
 .form-group::before{
-    font-family: 'Font Awesome/5 Free';
-    content: "\f1fa";
+    font-family: 'Font Awesome 5 Brands';
+    content: "\f007";
     position: absolute;
     font-size: 22px;
     left:28px;
+    font-weight: 900;
     padding-top: 4px;
     color: #555e60;
 }
